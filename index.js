@@ -1,4 +1,4 @@
-function createList() {
+const createList = () => {
   // Zaimplementuj zadanie zgodnie z wytycznymi
 };
 
